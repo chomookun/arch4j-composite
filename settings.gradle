@@ -4,7 +4,6 @@ rootProject.name = 'arch4j-composite'
 def modules = [
         "../arch4j",
         "../fintics",
-//        "../fintics-etf"
 ]
 
 // load composite build
